@@ -1,5 +1,5 @@
 # FP_DWO_KELOMPOK3
-Ini Tugas Final Project Kelompok DWO (Data Warehouse)
+Tugas Final Project Kelompok DWO (Data Warehouse)
 Anggota kelompok:
 1. Muhammad Rizki Erlangga Putra (19082010086) (Ketua)
 2. Almas Agung Firdaus (19082010110)
