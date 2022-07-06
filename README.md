@@ -1,8 +1,12 @@
-# FP_DWO_KELOMPOK3
-Tugas Final Project Kelompok DWO (Data Warehouse)
-Anggota kelompok:
-1. Muhammad Rizki Erlangga Putra (19082010086) (Ketua)
-2. Almas Agung Firdaus (19082010110)
-3. Dimas Dicky Saputra (19082010083)
-4.Reghi Givans Rasyidin (19082010061)
-5. Ardina Sagita Ramadhani (18082010050)
+Langkah-langkah menjalankan aplikasi :
+
+    Install database server: MySql
+    Install software mysql management: phpMyAdmin dari Xampp
+    Extract whadevnturework2022-kel11.zip pada folder htdocs XAMPP (xampp/htdocs).
+    Jalankan Xampp control panel.
+    Start apache dan mysql server dan tomcat
+    Buka phpMyAdmin (localhost/phpmyadmin).
+    Buat database dengan nama whadventurework2022.
+    Import file whadventurework2022.sql ke dalam database whadventurework2022.
+    Masukan folder mondiran ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps)
+    Jalankan aplikasi dengan mengakses http://localhost/whadventurework2022
